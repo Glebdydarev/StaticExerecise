@@ -6,8 +6,8 @@ namespace StaticExerecise
     {
         static void Main(string[] args)
         {
-            var celcius = TempConverter.FahrenheitToCelsius(20);
-            var fahrenheit = TempConverter.CelsiusToFahrenheit(10);
+            var celcius = TempConverter.FahrenheitToCelsius(68);
+            var fahrenheit = TempConverter.CelsiusToFahrenheit(20);
 
 
             Console.WriteLine("After conversion");
